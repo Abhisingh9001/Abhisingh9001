@@ -39,5 +39,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisingh9001&" alt="abhisingh9001" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisingh9001&" alt="abhisingh9001" /></p>
 
