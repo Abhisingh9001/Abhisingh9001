@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="#" target="_blank" rel="noreferrer"><img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://media1.tenor.com/m/dzock0eDxV0AAAAC/gofiber-really.gif)" alt="Banner Loading..."></img></a>
+<hr>
 <h1 align="center">Hi there 👋, My Self Abhishek Singh</h1>
 <h3 align="center">A passionate Data Science & Analytics / SEO Blogger</h3>
 
